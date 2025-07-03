@@ -1,0 +1,15 @@
+# Litigation Funding Research
+
+- [A Market in Litigation Risk](research/a-market-in-litigation-risk.html)
+- [AntillPaper.pdf#_~_text=Throughout the case, Miller accused,2 Corporate plaintiffs like](research/antillpaper-pdf-text-throughout-the-case-miller-accused-2-corporate-plaintiffs-like.html)
+- [Applying Commodity Market Frameworks to Litigation Funding](research/applying-commodity-market-frameworks-to-litigation-funding.html)
+- [Commercial Litigation Funding_ A Research Bibliography](research/commercial-litigation-funding-a-research-bibliography.html)
+- [Debevoise & Plimpton Is Building a New Model for Delivering AI Adoption Advice _ Law.com](research/debevoise-plimpton-is-building-a-new-model-for-delivering-ai-adoption-advice-law-com.html)
+- [Kobayashi_class 6_Market for Justice.pdf#_~_text=2013,reflected in greater spending by](research/kobayashi-class-6-market-for-justice-pdf-text-2013-reflected-in-greater-spending-by.html)
+- [Litigation Funding Trends](research/litigation-funding-trends.html)
+- [Mid-Market Litigation Funding Landscape_ Validating Demand for Smaller Funding Checks](research/mid-market-litigation-funding-landscape-validating-demand-for-smaller-funding-checks.html)
+- [Still_Selling_Lawsuits_-_Third_Party_Litigation_Funding_A_Decade_Later.pdf#_~_text=In 2009, the U,2 As the paper](research/still-selling-lawsuits-third-party-litigation-funding-a-decade-later-pdf-text-in-2009-the-u-2-as-the-paper.html)
+- [Third-Party Litigation Funding and Claim Transfer](research/third-party-litigation-funding-and-claim-transfer.html)
+- [Whose Claim Is This Anyway Third Party Litigation Funding](research/whose-claim-is-this-anyway-third-party-litigation-funding.html)
+- [deep-learning-meets-deep-pockets-artificial-intelligences-impact-on-litigation-financing](research/deep-learning-meets-deep-pockets-artificial-intelligences-impact-on-litigation-financing.html)
+- [gao-23-105210.pdf#_~_text=endowments and pensions. While third,Some policymakers have](research/gao-23-105210-pdf-text-endowments-and-pensions-while-third-some-policymakers-have.html)
